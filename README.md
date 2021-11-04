@@ -7,4 +7,4 @@ An HTML/CSS code project focusing on accessiblity and search engine optimization
 [Horiseon](https://themightynail.github.io/Horiseon/)
 
 ## Screenshot
-![Image of Horiseon](./assets/images/horiseon-screenshot.jpg)
+![Horiseon Screenshot](images/horiseon-screenshot.jpg)
